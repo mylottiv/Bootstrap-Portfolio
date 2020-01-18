@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather', serif;
+    background-color: #b6d1c6;
+}
+
+.navbar-link {
+    padding: 5px;
+}
+
+.navbar-link, .navbar-styling{
+    text-decoration: none;
+    color: #2b2a22;
+}
+
+.img-thumbnail {
+    padding: 0;
+    border:0
+}
